@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ I'm currently studying at University of Westminster (IIT).<br>👩🏽‍💻 I am currently working at Yunash 🎮<br>📚 I'm currently learning React js , Node js , SpringBoot and Angular.<br>😎 Pursuing Music and Youtube as hobbies/side hustles.</p>
+<p align="left">✨ I'm currently studying at University of Westminster (IIT).<br>👩🏽‍💻 I'm currently working at Yunash 🎮<br>📚 I'm currently learning React js , Node js , SpringBoot and Angular.<br>😎 Pursuing Music and Youtube as hobbies/side hustles.</p>
 
 ###
 
